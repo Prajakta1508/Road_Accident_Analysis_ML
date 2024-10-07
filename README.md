@@ -1,1 +1,3 @@
 # Road_Accident_Analysis_ML
+# Overview of Project
+This Road Accident Severity Analysis project aims to predict accident severity (slight, serious, or fatal) using machine learning. The dataset includes factors like weather, road conditions, and driver behavior. Data preprocessing involves handling missing values, encoding categorical data, and normalization. Through exploratory analysis, key factors contributing to severe accidents are identified. Models such as logistic regression and decision trees are applied, with feature engineering improving prediction. The models are evaluated using accuracy, precision, and recall, along with cross-validation. Insights from the analysis lead to recommendations for enhancing road safety.
